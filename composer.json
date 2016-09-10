@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stevenmaguire/trello-php": "^0.3.6",
+        "catharsisjelly/alfred-workflows": "^0.3.0"
+    }
+}
